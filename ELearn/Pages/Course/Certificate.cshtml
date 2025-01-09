@@ -1,0 +1,486 @@
+﻿@page
+@model Elearn.Pages.Course.CertificateModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <title>QCM</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            list-style: none;
+            text-decoration: none;
+        }
+
+        :root {
+            --green: #08b2dd;
+            --primary-bg-color: #ffffff; /* White background */
+            --primary-text-color: #333333; /* Dark grey text */
+            --accent-color: #333333; /* Dark grey accent color */
+            --button-bg-color: #333333; /* Dark grey button */
+            --secondary-light: #ffffff; /* White button text */
+            --button-hover-bg-color: #444444; /* Lighter grey on hover */
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            background-color: rgb(247, 247, 247);
+            color: var(--primary-text-color);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: left;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: none;
+            }
+
+        .containerQ {
+            display: inline-flex;
+            width: 100%;
+            height: 100%;
+            background-color: var(--primary-bg-color);
+        }
+
+        .side-bar {
+            position: fixed;
+            height: 100%;
+            width: 19.5%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background-color: var(--primary-light);
+            box-shadow: 0 7px 25px rgba(0, 0, 0, 0.1), 0 0px 0px;
+        }
+
+            .side-bar .header {
+                padding: 35px 24px 0;
+                margin-bottom: 35px;
+                font-weight: 700;
+                font-size: 18px;
+                padding-right: 10px;
+            }
+
+                .side-bar .header i {
+                    margin-right: 7px;
+                }
+
+            .side-bar .nav {
+                padding: 0px 0;
+            }
+
+        .nav .chapter {
+            margin: 8px 0px -10px;
+            padding: 10px 5px;
+            font-size: 17px;
+            font-weight: 500;
+            border-radius: 0px 60px 60px 0px;
+        }
+
+        .chapter a {
+            padding: 10px 149px;
+            padding-left: 30px;
+            width: 100%;
+            color: var(--button-hover-bg-color);
+            transform: 0.5 ease;
+            border-radius: 80px;
+            transition: background-color 0.3s ease;
+        }
+
+        .chapter:hover {
+            background-color: var(--accent-color);
+            color: white;
+        }
+
+        a {
+            color: white;
+        }
+
+
+
+        .chapter i {
+            margin-right: 5px;
+        }
+
+        .nested1, .nested2 {
+            padding: 5px 0 0px 40px;
+            width: 80%;
+        }
+
+            .nested1 li, .nested2 li {
+                margin: 10px;
+                padding: 5px;
+                border-radius: 2px;
+                transition: background-color 0.3s ease;
+            }
+
+                .nested1 li:hover, .nested2 li:hover {
+                    background-color: #cccbcba9;
+                }
+
+            .nested1 a, .nested2 a {
+                width: 100%;
+                color: #494949;
+                transform: 0.5 ease;
+                font-size: 16px;
+                padding: 16px;
+                transition: background-color 0.3s ease;
+            }
+
+        .header-container ul {
+            display: flex;
+            justify-content: space-between;
+            right: 0;
+            padding: 12px 30px;
+            flex-direction: row;
+            width: 1121px;
+            height: 50px;
+            margin: 10px 0px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            right: 15px;
+        }
+
+        .nested1, .nested2 {
+            display: none;
+        }
+
+        .profile {
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .profile {
+            padding: 15px 30px;
+            border-radius: 2px;
+            font-size: 15px;
+            width: 100%;
+            border-top: 1px solid #4444441f;
+        }
+
+            .profile i {
+                color: var(--green);
+                margin-right: 10px;
+                font-size: 18px;
+            }
+
+        .logo {
+            font-size: 15px;
+            color: var(--green);
+        }
+
+            .logo i {
+                font-size: 25px;
+                margin-right: 8px;
+                margin-bottom: -2px;
+            }
+
+        .title {
+            padding: 10px 2px 10px;
+            font-weight: 600;
+        }
+
+        .logout {
+            text-decoration: none;
+            border: none;
+            background-color: transparent;
+            padding: 0 5px;
+            color: #494949;
+            /*border: 1px solid #006cf8;*/
+            cursor: pointer;
+            font-size: 19px;
+            font-weight: 600;
+            border-radius: 5px;
+            transition: color 0.5s ease;
+        }
+
+            .logout:hover {
+                background-color: #0d6efd;
+                color: #fff;
+            }
+
+        .content {
+            height: 87%;
+            width: 70%;
+            padding: 20px;
+            margin: 80px 30px 30px 100px;
+        }
+
+            .content .container {
+                display: flex;
+                justify-content: space-between;
+                flex-direction: column;
+                margin-left: -40px;
+            }
+
+                .content .container .header {
+                    display: flex;
+                    justify-content: space-between;
+                    padding: 0 10px;
+                    margin-bottom: -50px;
+                }
+
+            .content .video {
+                padding: 0 10px;
+                width: calc(100% - 20px);
+                margin: auto;
+                border-radius: 10px 0;
+                border: 2px solid var(--green);
+                height: 300px;
+                position: relative;
+                z-index: 2;
+                background-color: aliceblue;
+                bottom: 15px;
+            }
+
+            .content .description {
+                width: 90%;
+                color: #444444;
+                font-size: 15px;
+                position: relative;
+                left: 7%;
+                bottom: 10%;
+                font-weight: 100;
+            }
+
+            .content .move {
+                display: flex;
+                justify-content: space-between;
+                padding: 2px 25px 0;
+                margin-bottom: 5px;
+            }
+
+            .content button {
+                padding: 10px 15px;
+                background-color: transparent;
+                border: 1px solid var(--button-bg-color);
+                border-radius: 50px;
+                width: 100px;
+                cursor: pointer;
+                font-size: 15px;
+                font-weight: 540;
+                color: var(--button-bg-color);
+                transition: background-color 0.3s ease;
+            }
+
+        .move button:hover {
+            color: white;
+            background-color: var(--button-bg-color);
+            font-weight: 600;
+        }
+
+        .content .header button {
+            color: var(--accent-color);
+            border: 2px solid var(--green);
+            font-weight: 600;
+            border-radius: 10px 0 0 0;
+            top: 16px;
+            z-index: 1;
+            position: relative;
+            transition: background-color 0.5s ease;
+        }
+
+            .content .header button:hover {
+                color: white;
+                background-color: var(--green);
+                font-weight: 600;
+                border-top-right-radius: 10px;
+            }
+
+        .prev i, .next i {
+            font-size: 35px;
+            margin: 0 10px;
+            cursor: pointer;
+            border-radius: 50%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        .prev {
+            color: rgb(141, 141, 141);
+        }
+
+        .next {
+            color: var(--button-hover-bg-color);
+        }
+
+        .active-chapter i {
+            color: var(--green);
+        }
+
+        .active-module {
+            border-left: 2px solid var(--button-bg-color);
+            background-color: #d8d8d888;
+        }
+
+        .home {
+            display: flex;
+            flex-direction: column;
+            margin-left: 310px;
+            align-content: center;
+        }
+
+        .formcontainer {
+            margin-top: 2px;
+            display: flex;
+            flex-direction: column;
+            width: 1121px;
+            padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+            background: white;
+        }
+
+        .Btn {
+            color: #fff;
+            border: none;
+            border-radius: 20px;
+            width: 137px;
+            height: 57px;
+            background-color: #0d6efd;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .formcontainer {
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            min-height: 500px;
+            width: 500px;
+            padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+            background: white;
+        }
+
+        .containerG {
+            text-align: center;
+            margin-top: 20px;
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="containerQ">
+        <div class="side-bar">
+            <div class="navigation">
+                <div class="header">
+                    <h4><i class="fa-solid fa-list"></i> Course Chapters</h4>
+                </div>
+                <ul class="nav">
+                    <li class="chapter"><a asp-page="/Course/Introduction">Introduction</a></li>
+                    <li>
+                        <div class="chapter">
+                            <a href="#" onclick="showModules(event, 'sublist1')">
+                                <i class="fa-solid fa-chevron-right"></i> Chapter 1
+                            </a>
+                        </div>
+                        <ul class="nested1" id="sublist1">
+                            <li><a asp-page="/Course/Chapter1Module1">Module 1</a></li>
+                            <li><a asp-page="/Course/Chapter1Module2">Module 2</a></li>
+                            <li><a asp-page="/Course/Chapter1Module3">Module 3</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <div class="chapter">
+                            <a onclick="showModules(event, 'sublist2')">
+                                <i class="fa-solid fa-chevron-right"></i> Chapter 2
+                            </a>
+                        </div>
+                        <ul class="nested2" id="sublist2">
+                            <li><a asp-page="/Course/Chapter2Module1">Module 1</a></li>
+                            <li><a asp-page="/Course/Chapter2Module2">Module 2</a></li>
+                            <li><a asp-page="/Course/Chapter2Module3">Module 3</a></li>
+                        </ul>
+                    </li>
+                    <li class="chapter"><a asp-page="/Course/Conclusion">Conclusion</a></li>
+                    <li class="chapter  active-chapter">
+                        <a asp-page="/Course/Quiz">
+                            <i class='bx bxs-badge-check'></i>
+                            Quiz
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="profile">
+                <div class="user">
+                    <i class="fa-solid fa-user"></i>@Model.UserName
+
+                </div>
+            </div>
+        </div>
+        <div class="home">
+            <div class="header-container">
+                <ul>
+                    <li class="logo"><i class="fa-brands fa-slack"></i><span class="title">CLICK ACADEMY</span></li>
+                    <li>
+                        <form method="get" action="/logout">
+                            <button class="logout" type="submit">
+                                <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+                            </button>
+                        </form>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="containerG">
+                <h1>Congratulations!</h1>
+                <p>Your score is: @Model.Score/100</p>
+
+                <!-- Bouton pour télécharger le certificat PDF -->
+                <button class="Btn">
+                    <a href="@Url.Page("Certificate", "DownloadCertificate")" style="width:80px;">Download Certificate</a>
+                </button>
+            </div>
+
+        </div>
+
+
+        <script>
+            function showModules(event, sublistId) {
+                event.preventDefault();
+
+                var x = document.getElementById(sublistId);
+                if (x.style.display === "none") {
+                    x.style.display = "block";
+                } else {
+                    x.style.display = "none";
+                }
+            }
+        </script>
+
+</body>
+</html>

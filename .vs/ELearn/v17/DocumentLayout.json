@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ELearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\test.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\test.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\introduction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\introduction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\conclusion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\conclusion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\certificate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\certificate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\conclusion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\conclusion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\landing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\landing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\introduction.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\introduction.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter2module2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter2module2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\chapter1module1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\chapter1module1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\elearn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\elearn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\certificate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\certificate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\pagecours.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\pagecours.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\course\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\course\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\model\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\model\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|c:\\users\\hp\\source\\repos\\elearn\\elearn\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF039276-409C-4490-BB74-63C13F5CFAB1}|Elearn\\Elearn.csproj|solutionrelative:elearn\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ELearn\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Model\\User.cs",
+              "RelativeToolTip": "ELearn\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T20:26:39.152Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\login.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\login.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\login.cshtml",
+              "ViewState": "AgIAAHAAAABgZmZmZmYkwFkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T00:34:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\login.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\login.cshtml.cs",
+              "ViewState": "AgIAAEkAAADAzMzMzMwuwGYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:35:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Introduction.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Introduction.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Introduction.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Introduction.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Introduction.cshtml",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAowFACAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:25:46.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chapter1Module1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module1.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module1.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module1.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module1.cshtml",
+              "ViewState": "AgIAAE0CAABAMjMzMzMhwFwCAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:14:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Test.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Test.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Test.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Test.cshtml",
+              "ViewState": "AgIAACkCAAAAaGZmZmYSwM8BAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T16:13:21.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Test.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Test.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Test.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Test.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:24:52.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Landing.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Landing.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Landing.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Landing.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Landing.cshtml",
+              "ViewState": "AgIAAE8BAAAAKDMzMzMbwGMBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T02:29:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chapter1Module3.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module3.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module3.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module3.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module3.cshtml",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAowFMCAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:39:08.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Chapter2Module3.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module3.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module3.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module3.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module3.cshtml",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAowAkBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:03:53.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chapter2Module1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module1.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module1.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module1.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module1.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAowAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:05:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chapter1Module2.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module2.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module2.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module2.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module2.cshtml",
+              "ViewState": "AgIAAEsCAADgMDMzMzMhwFYCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T00:52:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Chapter2Module2.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module2.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module2.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module2.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module2.cshtml",
+              "ViewState": "AgIAAPEAAAAANDMzMzMbwO8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:04:50.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conclusion.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Conclusion.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Conclusion.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Conclusion.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Conclusion.cshtml",
+              "ViewState": "AgIAAPgAAAAAZmZmZmYkwOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:25:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Certificate.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Certificate.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Certificate.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Certificate.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Certificate.cshtml.cs",
+              "ViewState": "AgIAAAsAAACgmZmZmZkywBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:52:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chapter2Module1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module1.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module1.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module1.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module1.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:29:54.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Conclusion.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Conclusion.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Conclusion.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Conclusion.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Conclusion.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:09:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Program.cs",
+              "RelativeDocumentMoniker": "ELearn\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Program.cs",
+              "RelativeToolTip": "ELearn\\Program.cs",
+              "ViewState": "AgIAAAYAAABgZmZmZmY0wAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:28:11.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\logout.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\logout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\logout.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T03:37:03.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ELearn\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ELearn\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T05:03:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Introduction.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Introduction.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Introduction.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Introduction.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Introduction.cshtml.cs",
+              "ViewState": "AgIAADYAAAAAZ2ZmZmYSwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:31:29.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\logout.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\logout.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:37:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Landing.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Landing.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Landing.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Landing.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Landing.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:25:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Chapter2Module3.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module3.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module3.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module3.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module3.cshtml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:30:27.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Chapter2Module2.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module2.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter2Module2.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter2Module2.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter2Module2.cshtml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:08:41.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Chapter1Module3.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module3.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module3.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module3.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module3.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Chapter1Module2.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module2.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module2.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module2.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module2.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwH8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:29:40.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Chapter1Module1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module1.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Chapter1Module1.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Chapter1Module1.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Chapter1Module1.cshtml.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwH0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:23:22.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Elearn.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\Elearn\\Elearn.csproj",
+              "RelativeDocumentMoniker": "Elearn\\Elearn.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\Elearn\\Elearn.csproj",
+              "RelativeToolTip": "Elearn\\Elearn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T17:33:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Certificate.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Certificate.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\Certificate.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\Certificate.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\Certificate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T03:51:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PageCours.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\PageCours.css",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\PageCours.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\PageCours.css",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\PageCours.css",
+              "ViewState": "AgIAACgBAADAzMzMzMwYwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T01:11:50.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\SignIn.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\SignIn.cshtml",
+              "ViewState": "AgIAAEwAAACA//////8nwIYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T03:32:51.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignIn.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\SignIn.cshtml.cs",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Course\\SignIn.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Course\\SignIn.cshtml.cs",
+              "RelativeToolTip": "ELearn\\Pages\\Course\\SignIn.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:34:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\appsettings.json",
+              "RelativeDocumentMoniker": "ELearn\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\appsettings.json",
+              "RelativeToolTip": "ELearn\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T17:29:48.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T20:49:54.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T17:53:18.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ELearn\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAPgAAAAAAAAAAIBJwAYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T21:45:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Model\\Progress.cs",
+              "RelativeDocumentMoniker": "ELearn\\Model\\Progress.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Model\\Progress.cs",
+              "RelativeToolTip": "ELearn\\Model\\Progress.cs",
+              "ViewState": "AgIAAAMAAABgZmZmZmYkwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:07:03.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ELearn\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ELearn\\ELearn\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ELearn\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T17:53:17.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
