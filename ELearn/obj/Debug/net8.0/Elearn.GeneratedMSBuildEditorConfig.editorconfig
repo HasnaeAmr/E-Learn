@@ -18,60 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\ELearn\Elearn
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Certificate.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENlcnRpZmljYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter1Module1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIxTW9kdWxlMS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter1Module2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIxTW9kdWxlMi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter1Module3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIxTW9kdWxlMy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter2Module1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIyTW9kdWxlMS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter2Module2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIyTW9kdWxlMi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Chapter2Module3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENoYXB0ZXIyTW9kdWxlMy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Conclusion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENvbmNsdXNpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Introduction.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEludHJvZHVjdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Landing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXExhbmRpbmcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXGxvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXGxvZ291dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/SignIn.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXFNpZ25Jbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/source/repos/ELearn/Elearn/Pages/Course/Test.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXFRlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/ELearn/Elearn/Pages/Error.cshtml]
